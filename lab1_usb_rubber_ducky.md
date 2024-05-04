@@ -1,3 +1,8 @@
+### LAB 1 USB RUBBER DUCKY CODE AND VIDEO
+
+![ezgif-6-63ece3d10c](https://github.com/gjentig4/lab_answers/assets/58633185/525e1a59-5222-4e40-9f99-ebd1a606b718)
+
+
 ```
 ATTACKMODE HID STORAGE
 DELAY 1000 
@@ -74,5 +79,4 @@ END_WHILE
 ENTER
 ```
 
-Result:![ezgif-6-63ece3d10c](https://github.com/gjentig4/lab_answers/assets/58633185/525e1a59-5222-4e40-9f99-ebd1a606b718)
 
