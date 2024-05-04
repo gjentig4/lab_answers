@@ -6,7 +6,7 @@
 USB Rubber Ducky Labs:
 - [Lab 1 - Android Document Fetcher ](lab1_usb_rubber_ducky.md)
 - Lab 2 - Reverse Shell Attack
-- Lab 3 - Document Extraction 
+- [Lab 3 - Document Extraction](lab2_usb_rubber_ducky.md) 
 ---------------
 WiFi Pineapple:
 - Lab 1 - Crack WiFi Passwords
