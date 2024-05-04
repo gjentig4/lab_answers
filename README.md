@@ -9,6 +9,6 @@ USB Rubber Ducky Labs:
 - [Lab 3 - Document Extraction](lab3_usb_rubber_ducky.md) 
 ---------------
 WiFi Pineapple:
-- Lab 1 - Crack WiFi Passwords
-- Lab 2 - Evil Portal
-- Lab 3 - DNS Spoofing
+- [Lab 1 - Crack WiFi Passwords](lab1_wifi_pineapple.md)
+- [Lab 2 - Evil Portal](lab2_wifi_pineapple.md)
+- [Lab 3 - DNS Spoofing](lab3_wifi_pineapple.md)
