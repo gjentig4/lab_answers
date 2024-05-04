@@ -4,7 +4,7 @@
 #### This github has the answers for the USB Rubber Ducky and the WiFi Pineapple Labs. 
 ---------------
 USB Rubber Ducky Labs:
-- Lab 1 - Android Document Fetcher
+- [Lab 1 - Android Document Fetcher ](lab1_usb_rubber_ducky.md)
 - Lab 2 - Reverse Shell Attack
 - Lab 3 - Document Extraction 
 ---------------
