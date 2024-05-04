@@ -1,0 +1,78 @@
+```
+ATTACKMODE HID STORAGE
+DELAY 1000 
+VAR $T = 70
+
+GUI r 
+DELAY 1000
+
+VAR $LOOP1 = 14
+VAR $I = 1
+
+WHILE ($I < $LOOP1)
+    SHIFT TAB
+    DELAY $T 
+    $I = ($I + 1)
+END_WHILE
+
+DELAY 500
+ENTER
+
+VAR $J = 1
+VAR $LOOP2 = 6
+WHILE ($J < $LOOP2)
+    SHIFT TAB
+    DELAY $T 
+    $J = ($J + 1)
+END_WHILE
+
+DELAY $T
+ENTER
+REM TEST
+DELAY 500
+ENTER
+DELAY 500
+ENTER
+DELAY 500
+SHIFT TAB
+DELAY $T
+SHIFT TAB
+DELAY $T
+SHIFT TAB
+DELAY $T
+ENTER
+DELAY 300
+ESCAPE
+DELAY 600
+
+
+VAR $LOOP3 = 9
+VAR $K = 1
+
+WHILE ($K < $LOOP3)
+    SHIFT TAB
+    DELAY $T 
+    $K = ($K + 1)
+END_WHILE
+
+
+ENTER
+DELAY 500
+TAB
+DELAY $T
+ENTER
+DELAY 500
+
+VAR $L = 1
+
+WHILE ($L < $LOOP3)
+    SHIFT TAB
+    DELAY $T 
+    $L = ($L + 1)
+END_WHILE
+
+ENTER
+```
+
+Result:![ezgif-6-63ece3d10c](https://github.com/gjentig4/lab_answers/assets/58633185/525e1a59-5222-4e40-9f99-ebd1a606b718)
+
